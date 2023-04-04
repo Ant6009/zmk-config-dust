@@ -16,6 +16,6 @@ include:
   - board: seeeduino_xiao_ble
     shield: dust_left
   - board: seeeduino_xiao_ble
-    shield: dust_right
-      #  - board: seeeduino_xiao_ble
-      # shield: settings_reset
+    shield: dust_right 
+  - board: seeeduino_xiao_ble
+    shield: settings_reset
